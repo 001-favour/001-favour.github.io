@@ -1,0 +1,69 @@
+/*
+    selected tag{
+     property:value }
+*/
+
+body{
+    background: url(IMG_0031.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.loginBox{
+    background: rgba(44, 62, 80, 0.8);
+    padding: 50px;
+    width: 250px;
+    margin-top: auto;
+    margin: auto;
+}
+
+form{
+    text-align: center;
+    margin-top: -10px;
+}
+
+input{
+    width: 230px;
+    text-align: center;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid white;
+    font-size: 15px;
+    font-weight: bolder;
+    padding: 10px 0;
+    outline: none;
+    color: antiquewhite;
+}
+
+button{
+    width: 200px;
+    font-size: 15px;
+    line-height: 30px;
+    padding: 10px 0;
+    cursor: pointer;
+    border-radius:  25px;
+    border: none;
+    background-color: black;
+    color: white;
+}
+
+button:hover{
+    background-color: white;
+    color: black;
+}
+
+.Register{
+    color: white;
+}
+
+a{
+    color: yellow;
+}
+
+h2{
+    color: yellowgreen;
+}
+
+::placeholder{
+    color: aliceblue;
+}
